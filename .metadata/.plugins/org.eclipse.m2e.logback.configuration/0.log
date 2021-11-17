@@ -58,3 +58,10 @@
 2021-11-15 17:58:35,567 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-11-15 17:58:35,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlos.Oviedo\Documents\SPRING BOOT PROJECT\Usuario\user-service\src\test\resources
 2021-11-17 08:17:33,173 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-17 14:18:03,310 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-17 14:18:49,650 [Worker-2: Launching Executing clean in C__Users_Carlos.Oviedo_Documents_SPRING BOOT PROJECT_Usuario_bike-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Carlos.Oviedo\Documents\SPRING BOOT PROJECT\Usuario\bike-service
+2021-11-17 14:18:49,657 [Worker-2: Launching Executing clean in C__Users_Carlos.Oviedo_Documents_SPRING BOOT PROJECT_Usuario_bike-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2021-11-17 14:19:03,335 [Worker-8: Launching Executing install in C__Users_Carlos.Oviedo_Documents_SPRING BOOT PROJECT_Usuario_bike-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Carlos.Oviedo\Documents\SPRING BOOT PROJECT\Usuario\bike-service
+2021-11-17 14:19:03,335 [Worker-8: Launching Executing install in C__Users_Carlos.Oviedo_Documents_SPRING BOOT PROJECT_Usuario_bike-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2021-11-17 14:19:35,368 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-11-17 14:19:35,400 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
