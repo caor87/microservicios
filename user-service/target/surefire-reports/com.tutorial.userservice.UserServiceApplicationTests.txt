@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tutorial.userservice.UserServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.816 s - in com.tutorial.userservice.UserServiceApplicationTests

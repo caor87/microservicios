@@ -1,0 +1,5 @@
+com\tutorial\bikeservice\BikeServiceApplication.class
+com\tutorial\bikeservice\repository\BikeRepository.class
+com\tutorial\bikeservice\controler\BikeControler.class
+com\tutorial\bikeservice\service\BikeService.class
+com\tutorial\bikeservice\entity\Bike.class
